@@ -1,0 +1,42 @@
+h1{
+    color: rgb(205, 13, 13);
+}
+
+h2{
+    color: rgb(222, 90, 42);
+    font-style: italic;
+}
+.ali{
+    color: brown;
+    padding: 12px;
+
+}
+#li3{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#li4{
+    background-color: yellow;
+    font-weight: bold;
+}
+.dli{
+    text-decoration: underline;
+   color: brown;
+   padding: 12px;
+   font-style: italic;
+}
+.aul{
+    color: brown;
+    letter-spacing: 4px;
+}
+#dul{
+    background-color: yellow;
+}
+.p{
+    color: brown;
+    padding-bottom: 15px;
+}
+#anchor{
+    background-color: yellow;
+    color: red;
+}
